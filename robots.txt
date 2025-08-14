@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soodent.github.io/sood-entertainment/sitemap.xml
